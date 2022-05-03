@@ -1,0 +1,15 @@
+black
+flake8
+isort
+jupyterlab
+matplotlib
+mne
+netcdf4
+neurolib>=0.6
+numpy
+pandas
+pathos
+seaborn
+tqdm
+xarray
+yasa
